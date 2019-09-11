@@ -1,0 +1,33 @@
+{
+  "name": "dinamislide",
+  "version": "1.0.0",
+  "description": "API para a produção de slides baseados em HTML com o Reveal.js e interação entre o apresentador e seu público em tempo real através de Sockets.",
+  "main": "servidor.js",
+  "scripts": {
+    "test": "teste"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Douglas12ds/dinamislide.git"
+  },
+  "keywords": [
+    "reveal.js",
+    "reveal",
+    "node.js",
+    "node",
+    "nodejs",
+    "revealjs",
+    "socketio",
+    "socket.io"
+  ],
+  "author": "Douglas Onofre",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Douglas12ds/dinamislide/issues"
+  },
+  "homepage": "https://github.com/Douglas12ds/dinamislide#readme",
+  "dependencies": {
+    "reveal.js": "file:reveal.js",
+    "socket.io": "^2.2.0"
+  }
+}
