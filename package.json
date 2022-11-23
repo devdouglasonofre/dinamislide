@@ -28,6 +28,6 @@
   "homepage": "https://github.com/Douglas12ds/dinamislide#readme",
   "dependencies": {
     "reveal.js": "file:reveal.js",
-    "socket.io": "^2.2.0"
+    "socket.io": "^2.5.0"
   }
 }
